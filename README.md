@@ -1,2 +1,2 @@
 # MyNewRepo-demo
-This is my first Gi Repository
+This is my first Git Repository
